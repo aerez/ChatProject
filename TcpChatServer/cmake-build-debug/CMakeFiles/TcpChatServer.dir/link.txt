@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TcpChatServer.dir/main.cpp.o CMakeFiles/TcpChatServer.dir/TcpServer.cpp.o CMakeFiles/TcpChatServer.dir/Client.cpp.o  -o TcpChatServer 
